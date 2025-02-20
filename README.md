@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Julián
 
-Soy un **Backend Developer** en formación con experiencia en desarrollo web y bases de datos. Me encanta crear soluciones eficientes y escalables, y estoy siempre aprendiendo nuevas tecnologías.
+Soy un **Frontend/Backend Developer** en formación con experiencia en desarrollo web y bases de datos. Me encanta crear soluciones eficientes y escalables, y estoy siempre aprendiendo nuevas tecnologías.
 
 ## 🚀 Tecnologías y Herramientas
 
@@ -24,20 +24,19 @@ Soy un **Backend Developer** en formación con experiencia en desarrollo web y b
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🛠️ Herramientas
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - ![REST API](https://img.shields.io/badge/API-005571?style=for-the-badge&logo=api&logoColor=white)
 
 ## 📌 Proyectos Destacados
 
-🔹 **[Sistema de pedidos en línea](#)** – React + PostgreSQL + Go  
-🔹 **[Gestión de torneos de fútbol](#)** – Base de datos para equipos y jugadores  
-🔹 **[Reproductor de música para Android](#)** – React Native  
+🔹 **[Sistema de pedidos en línea](#)** – React + PostgreSQL + Node.js
 🔹 **[Sistema de Compras](#)** – Desarrollo web  
+🔹 **[Sistema de Gestión de Tareas](#)** – Scala y Python  
+🔹 **[Sistema de Gestión y Manejo de Mascotas](#)** – Java  
+
 
 ## 🌎 Encuéntrame en:
 
-- **LinkedIn:** [www.linkedin.com/in/tuusuario](www.linkedin.com/in/tuusuario)  
-- **GitHub:** [www.github.com/tuusuario](www.github.com/tuusuario)  
+- **LinkedIn:** https://www.linkedin.com/in/juli%C3%A1n-lojano-jara-522a2b267/
 
 ¡Colaboremos en algo increíble! 🚀
